@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Caldo de Cana Brasil</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>CALDO DE CANA BRASIL</h1>
+        <nav>
+            <ul>
+                <li><a href="#onde">Onde Encontrar</a></li>
+                <li><a href="#origem">História</a></li>
+                <li><a href="#beneficios">Benefícios</a></li>
+                <li><a href="#curiosidades">Curiosidades</a></li>
+                <li><a href="#producao">Produção</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="onde">
+            <h2>🌴 Onde Encontrar Caldo de Cana</h2>
+            <p>Você pode encontrar o tradicional caldo de cana em feiras livres, mercados municipais, beiras de estrada e festas juninas. É especialmente comum no interior do Brasil e em regiões produtoras de cana-de-açúcar, como São Paulo, Minas Gerais, Pernambuco e Alagoas.</p>
+        </section>
+
+        <section id="origem">
+            <h2>📜 Quando Surgiu?</h2>
+            <p>O caldo de cana tem raízes históricas que remontam à chegada da cana-de-açúcar no Brasil pelos portugueses no século XVI. Inicialmente usado na produção de açúcar e cachaça, o suco da cana passou a ser consumido in natura por trabalhadores rurais como fonte rápida de energia.</p>
+        </section>
+
+        <section id="beneficios">
+            <h2>💪 Benefícios do Caldo de Cana</h2>
+            <ul>
+                <li>Rico em carboidratos naturais</li>
+                <li>Fonte de energia instantânea</li>
+                <li>Contém antioxidantes e vitaminas do complexo B</li>
+                <li>Ajuda na hidratação</li>
+            </ul>
+        </section>
+
+        <section id="curiosidades">
+            <h2>🤔 Curiosidades</h2>
+            <p>Você sabia que o caldo de cana é frequentemente combinado com limão ou gengibre? Além disso, a cana-de-açúcar já foi chamada de "ouro verde" no período colonial.</p>
+        </section>
+
+        <section id="producao">
+            <h2>🏭 Como é Produzido</h2>
+            <p>O caldo é extraído esmagando os colmos da cana em um moedor mecânico ou elétrico. O líquido é coado e servido gelado, às vezes com limão ou gelo. O bagaço restante pode ser reutilizado para compostagem ou energia.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 Caldo de Cana Brasil - Projeto Educacional</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
