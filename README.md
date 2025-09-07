@@ -1,19 +1,41 @@
-# Site sobre Caldo de Cana
+# 🥤 Caldo de Cana Brasil
 
-Este projeto é um site simples e informativo sobre o caldo de cana, desenvolvido com HTML, CSS e JavaScript.  
-O objetivo é apresentar a história dessa bebida tradicional, seus benefícios e curiosidades, de forma leve e interativa.
+Um site educativo e interativo sobre o **caldo de cana**, uma das bebidas mais tradicionais do Brasil.  
+Aqui você encontra informações sobre sua **história, benefícios, curiosidades e processo de produção**.
 
-## Conteúdo do site
-- História: explica a origem e tradição do caldo de cana.  
-- Benefícios: mostra por que essa bebida é saudável e energética.  
-- Curiosidades: seção interativa com curiosidades aleatórias ao clicar em um botão.  
+---
 
-## Funcionalidades
-- Navegação simples e responsiva.  
-- Cartões com design moderno e destaque ao passar o mouse.  
-- Botão que exibe curiosidades de forma aleatória.  
+## 🚀 Tecnologias Utilizadas
+- **HTML5** → Estrutura do site  
+- **CSS3** → Estilização com responsividade e animações  
+- **JavaScript** → Interatividade e rolagem suave  
 
-## Tecnologias utilizadas
-- HTML5 para a estrutura.  
-- CSS3 para estilização e responsividade.  
-- JavaScript para a interatividade.  
+---
+
+## 📸 Demonstração
+🌐 [Acesse o site aqui](https://SEU-USUARIO.github.io/caldo-de-cana)  
+
+> *(Troque `SEU-USUARIO` pelo seu nome de usuário no GitHub para funcionar no Pages)*
+
+---
+
+## 📖 Seções do Site
+- 🌴 **Onde Encontrar** – locais tradicionais de venda  
+- 📜 **História** – como surgiu no Brasil  
+- 💪 **Benefícios** – energia, vitaminas e hidratação  
+- 🤔 **Curiosidades** – fatos interessantes e cultura popular  
+- 🏭 **Produção** – como o caldo é feito  
+
+---
+
+## 🖼️ Layout
+O design foi feito para ser:
+- ✅ Responsivo (funciona no PC, tablet e celular)  
+- ✅ Moderno e agradável  
+- ✅ Simples de entender e navegar  
+
+---
+
+## 👨‍💻 Autor
+Criado por [@ieecaetanorocha](https://github.com/ieecaetanorocha)  
+📅 Projeto Educacional – 2025  
